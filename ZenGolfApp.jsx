@@ -7,7 +7,7 @@ export default function ZenGolfApp() {
     <div style={{ padding: '2rem', fontFamily: 'sans-serif' }}>
       <h1 style={{ fontSize: '1.8rem', color: '#2e7d32' }}>Zen Golf Training – Paribuddha</h1>
       <img
-  src="/MasterGolfProvoc-logo.png"
+  src="/public/MasterGolfProvoc-logo.png"
   alt="Masters Logo"
   className="w-40 mb-4"
 />
