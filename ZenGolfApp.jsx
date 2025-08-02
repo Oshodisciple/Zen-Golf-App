@@ -6,12 +6,9 @@ export default function ZenGolfApp() {
   return (
     <div style={{ padding: '2rem', fontFamily: 'sans-serif' }}>
       <h1 style={{ fontSize: '1.8rem', color: '#2e7d32' }}>Zen Golf Training – Paribuddha</h1>
-      <img
-  import logo from './assets/MasterGolfProvoc-logo.png'
+     <img src={logo} alt="Masters Logo" className="w-40 mb-4" />
 
-  alt="Masters Logo"
-  className="w-40 mb-4"
-/>
+
 <h1 className="text-3xl font-bold text-center mb-6">MASTERS – Golf Pro Vocateur</h1>
 
       <p><em>"Ich atme ein – ich lade Spannung. Ich atme aus – ich lasse los."</em></p>
