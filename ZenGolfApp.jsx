@@ -1,5 +1,5 @@
 import { useState } from 'react'
-
+import logo from './assets/MasterGolfProvoc-logo.png'
 export default function ZenGolfApp() {
   const [progress, setProgress] = useState(60)
 
