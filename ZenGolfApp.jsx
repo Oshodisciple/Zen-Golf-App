@@ -6,7 +6,13 @@ export default function ZenGolfApp() {
   return (
     <div style={{ padding: '2rem', fontFamily: 'sans-serif' }}>
       <h1 style={{ fontSize: '1.8rem', color: '#2e7d32' }}>Zen Golf Training – Paribuddha</h1>
-      <img src="https://inner-skills.com/wp-content/uploads/2024/06/Paribuddha-portrait.jpg" alt="Paribuddha" style={{ width: 300, borderRadius: 16, margin: '1rem 0' }} />
+      <img
+  src="/MasterGolfProvoc-logo.png"
+  alt="Masters Logo"
+  className="w-40 mb-4"
+/>
+<h1 className="text-3xl font-bold text-center mb-6">MASTERS – Golf Pro Vocateur</h1>
+
       <p><em>"Ich atme ein – ich lade Spannung. Ich atme aus – ich lasse los."</em></p>
 
       <h2>Drill des Tages: Pump-Drill</h2>
